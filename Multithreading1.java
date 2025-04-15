@@ -9,7 +9,6 @@ public class Multithreading1 {
 		System.out.println("Name of the thread :"+Thread.currentThread().getName());
 		System.out.println("Main Method  is ended");
 	}
-	
 	 void show() {
 		System.out.println("good morning ,hava good day");
 	}
